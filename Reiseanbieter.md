@@ -17,4 +17,13 @@
 - Atmosfair (kein Anbieter)
   - Klimaschutzorganisation, mit dem Schwerpunkt Reisen
   - Onlineplattform um das CO² von Flügen zu kompensieren
-  - funktioniert durch Spenden, deren Menge über einen Calculator auf deren Webseit berechnet wird
+  - funktioniert durch Spenden, deren Menge über einen Calculator auf deren Webseite berechnet wird
+- Deutsche Bahn
+  - Zugunternehmen in Deutschland
+  - bieten auch Busfahrten an
+  - viele verschiedene Angebote mit unterschiedlichen Preisen
+  - Auch Fahrten ins Ausland möglich
+- Flixtrain
+  - Zugunternehmen
+  - Fahrten nur innerhalb Deutschlands möglich
+  - fährt nur zu einigen großen Städten
