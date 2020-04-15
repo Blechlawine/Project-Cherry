@@ -61,7 +61,7 @@
 
 ## Daten
 
-|| Flugzeug | Auto |
-|| --- | --- |
-|CO² Ausstoß pro Person und 100 Kilometer bei einer Person|21,1kg|18,9kg|
-|CO² Ausstoß pro Person und 100 Kilometer bei vier Personen|21,1kg|4,7kg|
+| | Flugzeug | Auto |
+| --- | --- | --- |
+| CO² Ausstoß pro Person und 100 Kilometer bei einer Person | 21,1kg | 18,9kg |
+| CO² Ausstoß pro Person und 100 Kilometer bei vier Personen | 21,1kg | 4,7kg |
