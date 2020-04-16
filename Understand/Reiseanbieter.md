@@ -5,7 +5,7 @@
   - Man kann andere Leute im eigenen Auto mitnehmen
   - gibt auch noch Blablabus für Busfahrten
   - zusätzlicher Blog mit Artikeln u.a. über CO² Einsparungen beim Autofahren
-**- Ameropa**
+- **Ameropa**
   - nur Bahnfahrten
   - hauptsächlich in Europa, aber auch weltweit
   - Buchungsportal
