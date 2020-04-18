@@ -1,29 +1,29 @@
 # Reiseanbieter
 
-- Blablacar
+- **Blablacar**
   - französischer Mitfahrgelegenheitsonlineportalanbieter
   - Man kann andere Leute im eigenen Auto mitnehmen
   - gibt auch noch Blablabus für Busfahrten
   - zusätzlicher Blog mit Artikeln u.a. über CO² Einsparungen beim Autofahren
-- Ameropa
+- **Ameropa**
   - nur Bahnfahrten
   - hauptsächlich in Europa, aber auch weltweit
   - Buchungsportal
-- Fluglos Glücklich (kein Anbieter)
+- **Fluglos Glücklich (kein Anbieter)**
   - Blog der zum Reisen ohne Flugzeug aufruft
   - Liste mit Reiseanbietern, die keine Flugreisen anbieten
-- Startup "Traivelling"
+- **Startup "Traivelling"**
   - organisiert Zugreisen durch Europa und Asien
-- Atmosfair (kein Anbieter)
+- **Atmosfair (kein Anbieter)**
   - Klimaschutzorganisation, mit dem Schwerpunkt Reisen
   - Onlineplattform um das CO² von Flügen zu kompensieren
   - funktioniert durch Spenden, deren Menge über einen Calculator auf deren Webseite berechnet wird
-- Deutsche Bahn
+- **Deutsche Bahn**
   - Zugunternehmen in Deutschland
   - bieten auch Busfahrten an
   - viele verschiedene Angebote mit unterschiedlichen Preisen
   - Auch Fahrten ins Ausland möglich
-- Flixtrain
+- **Flixtrain**
   - Zugunternehmen
   - Fahrten nur innerhalb Deutschlands möglich
   - fährt nur zu einigen großen Städten
