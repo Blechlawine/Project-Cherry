@@ -11,12 +11,12 @@ FullName:Roboto Black
 MenuName:Roboto Bk
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:D:\UXD\Project-Cherry\Doku Ordner\Document fonts\Roboto-Black.ttf
+OutlineFileName:D:\Users\Scorp\Documents\GitHub\Project-Cherry\Doku Ordner\Document fonts\Roboto-Black.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:164936
-FileModTime:1457825645
+FileModTime:1587568991
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -36,12 +36,12 @@ FullName:Roboto Medium
 MenuName:Roboto Lt
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:D:\UXD\Project-Cherry\Doku Ordner\Document fonts\Roboto-Medium.ttf
+OutlineFileName:D:\Users\Scorp\Documents\GitHub\Project-Cherry\Doku Ordner\Document fonts\Roboto-Medium.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:160696
-FileModTime:1457825646
+FileModTime:1587568991
 WeightClass:500
 WidthClass:5
 AngleClass:0
@@ -61,12 +61,12 @@ FullName:Roboto Regular
 MenuName:Roboto
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:D:\UXD\Project-Cherry\Doku Ordner\Document fonts\Roboto-Regular.ttf
+OutlineFileName:D:\Users\Scorp\Documents\GitHub\Project-Cherry\Doku Ordner\Document fonts\Roboto-Regular.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:158604
-FileModTime:1457825646
+FileModTime:1587568991
 WeightClass:400
 WidthClass:5
 AngleClass:0
